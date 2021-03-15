@@ -1,0 +1,6 @@
+class sp{
+
+public static void main(String[] arg){
+//Some logic
+}
+}
